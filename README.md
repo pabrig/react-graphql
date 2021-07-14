@@ -1,4 +1,4 @@
-# Creahana Challenge Front End
+# Crehana Challenge Front End
 
 This is an application for search and view your favourite countries.
 
