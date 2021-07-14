@@ -1,10 +1,8 @@
-import Header from './container/Header'
-import Home from './container/Home'
+import Home from './components/Home'
 
 function App() {
   return (
     <div >
-      <Header />
       <Home />
     </div>
   );
