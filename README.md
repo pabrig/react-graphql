@@ -20,7 +20,6 @@ This is an application for search and view your favourite countries.
 
 - Then:
 
-bash
 cd pablo-rigalli-challenge-crehana-front-end
 
 yarn 
