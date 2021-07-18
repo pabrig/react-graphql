@@ -1,6 +1,6 @@
 # Crehana Challenge Front End
 
-This is an application for search and view your favourite countries.
+This is an application for search your favourite country.
 
 ## Prerequisites
 
@@ -8,23 +8,22 @@ This is an application for search and view your favourite countries.
 
 ## Base dependencies
 
-
 - [React devtools](https://chrome.google.com/webstore/detail/react-developer-tools/) extension for debbuging.
+- [React Hooks](https://reactjs.org/docs/hooks-reference.html) React hooks API.
 - [Tailwindcss](https://github.com/tailwindlabs/tailwindcss) components for styling.
-- [restcountries](https://restcountries.eu/) API.
-
+- [countries.trevorblades](https://countries.trevorblades.com) API.
+- [GraphQl](https://github.com/graphql) Query.
+- [Apollo GraphQL](https://github.com/apollographql) tools graphQl.
 
 ## Installation
 
 - Clone the repository into your computer.
 
-- Then:
+- cd pablo-rigalli-challenge-crehana-front-end
 
-cd pablo-rigalli-challenge-crehana-front-end
+- yarn 
 
-yarn 
-
-yarn start (http://localhost:3000/) 
+- yarn start (http://localhost:3000/) 
 
 
 ## Author
