@@ -19,8 +19,6 @@ This is an application for search your favourite country.
 
 - Clone the repository into your computer.
 
-- cd pablo-rigalli-challenge-crehana-front-end
-
 - yarn 
 
 - yarn start (http://localhost:3000/) 
